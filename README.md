@@ -1,4 +1,4 @@
-# Real-Time Vehicle Detection and Tracking System using YOLO🚗
+# Vehicle Detection & Tracking (YOLO)🚗
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-PC--based-blue.svg)
@@ -164,6 +164,6 @@ The Vehicle Detection and Counting System provides a reliable, real-time solutio
 Information
 ------------------
 
-Author❤️: [UTTAM BODARA](https://uttambodara.netlify.app/)
+Author❤️: [UTTAM BODARA]( https://github.com/sponsors/uttambodara)
 
 License💀: [MIT License](https://opensource.org/licenses/MIT)
