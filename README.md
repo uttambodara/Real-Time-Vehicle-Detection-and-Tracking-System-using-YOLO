@@ -160,3 +160,10 @@ It can detect and count cars at night also.
 The Vehicle Detection and Counting System provides a reliable, real-time solution for identifying and tracking vehicles using Python, OpenCV, and YOLOv4. It automates traffic monitoring with accurate detection and voice-based interaction, making it suitable for smart city and surveillance applications. This project lays the groundwork for future enhancements in intelligent transportation systems.
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/439dd0c6-4d62-4ad0-a437-274a331f4935" />
+
+Information
+------------------
+
+Author❤️: [UTTAM BODARA](https://uttambodara.netlify.app/)
+
+License💀: [MIT License](https://opensource.org/licenses/MIT)
