@@ -1,4 +1,4 @@
-# Vehicle Detection and Counting System 
+# Real-Time Vehicle Detection and Tracking System using YOLO🚗
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-PC--based-blue.svg)
