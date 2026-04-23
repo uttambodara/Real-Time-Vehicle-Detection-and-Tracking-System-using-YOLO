@@ -9,6 +9,13 @@
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/103e5c2b-0e59-4702-9802-44d87e662c03" />
 
+<p align="center">
+  <img src="images/1.png" width="400">
+</p>
+```.
+
+
+
 ## Introduction
 
 The **Vehicle Detection and Counting System** is a real-time traffic monitoring solution built using **Python**, **OpenCV**, and **YOLOv4**. It is capable of identifying, tracking, and counting vehicles from a video feed or image sequence. It also features a voice interface using **pyttsx3** for audible alerts. This project addresses the growing need for intelligent traffic systems, helping to automate vehicle monitoring, enhance traffic flow analysis, and improve smart city infrastructure.
